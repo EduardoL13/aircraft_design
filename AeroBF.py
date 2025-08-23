@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jun  1 17:56:31 2025
-AERONAUTICS UNITS
+AERONAUTICS BASIC FUNCTIONS
 @author: ELC
 """
 
@@ -491,4 +490,5 @@ def calcAirspeedForCL(lift,rho,wettedArea,coeffLiftDesired):
     vel = abs((2*lift/(rho*wettedArea*coeffLiftDesired))**(1/2))
     return vel
     
+
 
