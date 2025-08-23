@@ -2,6 +2,9 @@
 
 This repository contains a growing set of Python modules designed to support core calculations in aircraft design and preliminary analysis. The current focus is on quick-access routines for atmospheric conditions, aerodynamics, and performance estimations, with future development aimed at enabling parametric geometry generation.
 
+## Status
+⚠️ Work in Progress: This project is under active development. Expect breaking changes.
+
 ## Modules Included
 
 - **Atmospheric Conditions:**  
